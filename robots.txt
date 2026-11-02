@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /aspirationstyle-site/admin/
+Allow: /
+
+Sitemap: https://workbench-soft.com/aspirationstyle-site/sitemap-index.xml

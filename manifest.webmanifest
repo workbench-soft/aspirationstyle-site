@@ -1,0 +1,10 @@
+{
+  "name": "Aspiration Style · Мария Шилова",
+  "short_name": "Aspiration Style",
+  "lang": "ru",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f2ec",
+  "theme_color": "#f6f2ec",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
