@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /admin/
 Allow: /
+Clean-param: c /portfolio/
 
 Sitemap: https://aspirationstyle.ru/sitemap-index.xml
